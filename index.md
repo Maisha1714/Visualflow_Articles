@@ -44,10 +44,6 @@ Modern software is becoming spatial.
 
 ---
 
-
-
----
-
 # What Is React Flow?
 
 React Flow is a React-based library for building node-based interfaces and interactive diagrams.
@@ -180,13 +176,6 @@ Instead of generic blocks, nodes can become:
 Suddenly the canvas becomes a real product interface.
 
 Not just a visual graph.
-
----
-
-<img width="1466" height="726" alt="Screenshot 2026-05-11 at 11 54 49 PM" src="https://github.com/user-attachments/assets/9e687e03-0f93-4da0-b7fa-6c326c481856" /><img width="1465" height="720" alt="Screenshot 2026-05-12 at 12 14 08 AM" src="https://github.com/user-attachments/assets/1bba011c-8f21-4ae8-a9b2-fab67abb616b" />
-<img width="1469" height="717" alt="Screenshot 2026-05-12 at 12 12 31 AM" src="https://github.com/user-attachments/assets/6df2227d-dca1-4e7a-8ccc-d477ab5fa26d" />
-<img width="1465" height="722" alt="Screenshot 2026-05-12 at 12 08 14 AM" src="https://github.com/user-attachments/assets/994642c6-a0f7-4cc0-9561-ae1df8d3b43e" />
-<img width="1468" height="784" alt="Screenshot 2026-05-12 at 12 07 20 AM" src="https://github.com/user-attachments/assets/55ac74d9-6dd2-4c8e-8525-5089ec6544f2" />
 
 
 ---
@@ -396,9 +385,7 @@ The system includes patterns for:
 
 This type of infrastructure is becoming increasingly important as AI-native applications grow.
 
----
-
-![AI Workflow Builder](https://www.visualflow.dev/paid-examples/langflow-builder/cover.png)
+<img width="1466" height="726" alt="Screenshot 2026-05-11 at 11 54 49 PM" src="https://github.com/user-attachments/assets/9e687e03-0f93-4da0-b7fa-6c326c481856" />
 
 ---
 
@@ -416,6 +403,8 @@ These are useful for:
 
 Building these interactions manually takes significant frontend engineering effort.
 
+<img width="1469" height="717" alt="Screenshot 2026-05-12 at 12 12 31 AM" src="https://github.com/user-attachments/assets/6df2227d-dca1-4e7a-8ccc-d477ab5fa26d" />
+
 ---
 
 ## Example: Timeline Systems
@@ -432,9 +421,7 @@ VisualFlow’s timeline systems support:
 
 These patterns are useful across project management, history visualization, and operational software.
 
----
-
-![Timeline Flow](https://www.visualflow.dev/paid-examples/reactflow-timeline-flow/cover.png)
+<img width="1465" height="720" alt="Screenshot 2026-05-12 at 12 14 08 AM" src="https://github.com/user-attachments/assets/1bba011c-8f21-4ae8-a9b2-fab67abb616b" />
 
 ---
 
