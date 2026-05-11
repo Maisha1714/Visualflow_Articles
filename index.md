@@ -173,6 +173,8 @@ Instead of generic blocks, nodes can become:
 * ETL transformations
 * LLM prompts
 
+<img width="1468" height="784" alt="Screenshot 2026-05-12 at 12 07 20 AM" src="https://github.com/user-attachments/assets/55ac74d9-6dd2-4c8e-8525-5089ec6544f2" />
+
 Suddenly the canvas becomes a real product interface.
 
 Not just a visual graph.
@@ -259,9 +261,7 @@ Examples include:
 
 These systems benefit enormously from interactive diagram interfaces.
 
----
-
-![Automation Workflow](https://www.visualflow.dev/paid-examples/marketing-automation-workflow/cover.png)
+<img width="1468" height="784" alt="Screenshot 2026-05-12 at 12 07 20 AM" src="https://github.com/user-attachments/assets/55ac74d9-6dd2-4c8e-8525-5089ec6544f2" />
 
 ---
 
@@ -582,9 +582,7 @@ Professional workflow editors require:
 
 These details dramatically affect perceived product quality.
 
----
-
-![Enterprise Workflow Builder](https://www.visualflow.dev/paid-examples/production-process-editor/cover.png)
+<img width="1464" height="723" alt="Screenshot 2026-05-12 at 12 28 07 AM" src="https://github.com/user-attachments/assets/7d58372d-b144-4ea7-94a7-af26e777c702" />
 
 ---
 
@@ -666,3 +664,4 @@ Instead of starting from scratch, teams can begin with production-ready React Fl
 For startups and enterprise teams alike, that can mean shipping months faster while maintaining a significantly more polished user experience.
 
 If you're building a modern workflow product, it's worth exploring how much infrastructure you actually want to rebuild yourself.
+Visit:[VisualFlow](https://www.visualflow.dev) for such examples.
