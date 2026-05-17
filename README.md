@@ -4,6 +4,8 @@ A premium React Flow workflow builder template for SaaS teams, automation platfo
 
 This project is based on the **Marketing Automation Workflow** template by VisualFlow — a professional node-based workflow builder designed for creating, managing, and scaling complex automation systems with a clean visual interface.
 
+<img width="1470" height="778" alt="Screenshot 2026-05-18 at 2 14 58 AM" src="https://github.com/user-attachments/assets/1533f5f6-521e-46b1-963d-aea45ee4e8f7" />
+
 👉 Live Product Page:  
 https://www.visualflow.dev/paid-examples/marketing-automation-workflow
 
